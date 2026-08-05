@@ -1,0 +1,122 @@
+neighbourhood_id,name,city
+1,Khlong Toei,bangkok
+2,Khlong San,bangkok
+3,Don Mueang,bangkok
+4,Bang Phlat,bangkok
+5,Huai Khwang,bangkok
+6,Lat Krabang,bangkok
+7,Suanluang,bangkok
+8,Bangkok Noi,bangkok
+9,Samphanthawong,bangkok
+10,Bang Kapi,bangkok
+11,Min Buri,bangkok
+12,Vadhana,bangkok
+13,Phra Khanong,bangkok
+14,Ratchathewi,bangkok
+15,Phra Nakhon,bangkok
+16,Pra Wet,bangkok
+17,Sathon,bangkok
+18,Bang Sue,bangkok
+19,Bang Khae,bangkok
+20,Bang Khen,bangkok
+21,Lak Si,bangkok
+22,Chom Thong,bangkok
+23,Parthum Wan,bangkok
+24,Bang Na,bangkok
+25,Sai Mai,bangkok
+26,Phaya Thai,bangkok
+27,Phasi Charoen,bangkok
+28,Bueng Kum,bangkok
+29,Chatu Chak,bangkok
+30,Thon buri,bangkok
+31,Din Daeng,bangkok
+32,Bang Rak,bangkok
+33,Bang Kho laen,bangkok
+34,Yan na wa,bangkok
+35,Saphan Sung,bangkok
+36,Wang Thong Lang,bangkok
+37,Dusit,bangkok
+38,Khan Na Yao,bangkok
+39,Pom Prap Sattru Phai,bangkok
+40,Nong Chok,bangkok
+41,Nong Khaem,bangkok
+42,Lat Phrao,bangkok
+43,Bangkok Yai,bangkok
+44,Rat Burana,bangkok
+45,Taling Chan,bangkok
+46,Bang Khun thain,bangkok
+47,Thawi Watthana,bangkok
+48,Thung khru,bangkok
+49,Bang Bon,bangkok
+50,Khlong Sam Wa,bangkok
+51,Sydney,sydney
+52,Mosman,sydney
+53,Leichhardt,sydney
+54,Pittwater,sydney
+55,Warringah,sydney
+56,Waverley,sydney
+57,Manly,sydney
+58,Randwick,sydney
+59,Hornsby,sydney
+60,Auburn,sydney
+61,Penrith,sydney
+62,North Sydney,sydney
+63,Marrickville,sydney
+64,Sutherland Shire,sydney
+65,Parramatta,sydney
+66,Hurstville,sydney
+67,Burwood,sydney
+68,Ryde,sydney
+69,Canterbury,sydney
+70,Woollahra,sydney
+71,Willoughby,sydney
+72,Camden,sydney
+73,Ashfield,sydney
+74,Botany Bay,sydney
+75,Ku-Ring-Gai,sydney
+76,Rockdale,sydney
+77,Liverpool,sydney
+78,Bankstown,sydney
+79,Lane Cove,sydney
+80,City Of Kogarah,sydney
+81,Canada Bay,sydney
+82,Blacktown,sydney
+83,The Hills Shire,sydney
+84,Holroyd,sydney
+85,Campbelltown,sydney
+86,Strathfield,sydney
+87,Fairfield,sydney
+88,Hunters Hill,sydney
+89,Lambeth,london
+90,Islington,london
+91,Kensington and Chelsea,london
+92,Westminster,london
+93,Redbridge,london
+94,Hackney,london
+95,Newham,london
+96,Haringey,london
+97,Brent,london
+98,Wandsworth,london
+99,Camden,london
+100,Lewisham,london
+101,Richmond upon Thames,london
+102,Tower Hamlets,london
+103,Waltham Forest,london
+104,Ealing,london
+105,Barnet,london
+106,Southwark,london
+107,Hammersmith and Fulham,london
+108,Merton,london
+109,Hounslow,london
+110,Greenwich,london
+111,Croydon,london
+112,Havering,london
+113,Bromley,london
+114,Enfield,london
+115,City of London,london
+116,Kingston upon Thames,london
+117,Barking and Dagenham,london
+118,Harrow,london
+119,Hillingdon,london
+120,Sutton,london
+121,Bexley,london
