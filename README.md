@@ -133,8 +133,14 @@ python -m notebooks.eda             # Run analysis
 ```
 
 ---
+# here are the previews of the pbix file
+<img src="dashboard/exec.png" alt="Executive dashboard" widht="800">
+<img src="dashboard/NH.png" alt="Neighborhood and Host" widht="800">
+<img src="dashboard/property.png" alt="Property type" widht="800">
+<img src="dashboard/investment.png" alt="Investment" widht="800">
+
 
 ## Author
 
 **Ryan Seguiro**
-[LinkedIn](linkedin.com/in/ryanseguiro) • [GitHub](https://github.com/nayR02)
+[LinkedIn](https://www.linkedin.com/in/ryanseguiro/) • [GitHub](https://github.com/nayR02)
