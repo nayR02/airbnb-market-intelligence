@@ -1,6 +1,7 @@
 """
 Exploratory Data Analysis for Airbnb Market Intelligence.
 Answers key business questions using SQL + pandas.
++ quick sanity checks on the data before diving into analysis (Power BI).
 """
 
 import sqlite3
